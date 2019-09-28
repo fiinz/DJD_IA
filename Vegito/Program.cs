@@ -5,7 +5,7 @@ namespace Vegito
 {
     /// <summary>
     /// # vegito 
-    /// t
+    /// teste
     /// </summary>
     class Program
     {
