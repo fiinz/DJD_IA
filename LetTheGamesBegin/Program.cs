@@ -7,6 +7,7 @@ namespace LetTheGamesBegin
         static void Main(string[] args)  
         {
             Console.WriteLine("teste3");
+            Console.WriteLine("teste3");
             Console.WriteLine("Hello World!");
         }
     }
