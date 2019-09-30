@@ -18,7 +18,7 @@ namespace Noob
             //concatenation 
             // Concatenate, concatenation, or concat is a term that describes combining a string,
             // text, or other data in a series without any gaps
-            System.Console.WriteLine(You’re such a Noob"+nickname+"! \n It's always good to have newbies around here!");
+             System.Console.WriteLine("You’re such a Noob"+nickname+"! \n It's always good to have newbies around here!");
              // alternative 
              //System.Console.WriteLine(You’re such a Noob {0} \n It's always good to have newbies around here!", nickname );
          
