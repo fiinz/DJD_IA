@@ -1,4 +1,5 @@
 ﻿using System;
+/* Create an algorithm that sends three messages to the console:  "Game Started, Game Playing, Game Over."*/
 
 namespace LetTheGamesBegin
 {
@@ -6,11 +7,10 @@ namespace LetTheGamesBegin
     {
         static void Main(string[] args)  
         {
-            Console.WriteLine("teste3");
-            Console.WriteLine("teste3");
-            
-            Console.WriteLine("teste3");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Game Started");
+            Console.WriteLine("Game Playing");
+            Console.WriteLine("Game Over");
+         
         }
     }
 }
