@@ -1,4 +1,5 @@
 ﻿using System;
+/* Jaime Fins 2019*/
 /* Create an algorithm that sends three messages to the console:  "Game Started, Game Playing, Game Over."*/
 
 namespace LetTheGamesBegin
