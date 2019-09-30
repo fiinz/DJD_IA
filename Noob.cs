@@ -1,7 +1,7 @@
 using System;
 /* Jaime Fins 2019*/
 
-namespace LetTheGamesBegin
+namespace Noob
 {
     // #LetTheGamesBegin
     /// <summary>Create an algorithm that defines and stores Player's nickname and it says "You’re such a Noob #Fiinz!
@@ -13,9 +13,14 @@ namespace LetTheGamesBegin
     {
         static void Main(string[] args)  
         {
-            Console.WriteLine("Game Started");
-            Console.WriteLine("Game Playing");
-            Console.WriteLine("Game Over");
+            String nickname="#fiinz"; // write your nickname here
+            
+            //concatenation 
+            // Concatenate, concatenation, or concat is a term that describes combining a string,
+            // text, or other data in a series without any gaps
+            System.Console.WriteLine(You’re such a Noob"+nickname+"! \n It's always good to have newbies around here!");
+             // alternative 
+             //System.Console.WriteLine(You’re such a Noob {0} \n It's always good to have newbies around here!", nickname );
          
         }
     }
