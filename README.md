@@ -1,3 +1,7 @@
 # 1920_DJD_IA
-All the solutions are intended to be the most comprehensive for begginers. 
-Resolutions for the exercices proposed during the classes.
+
+This repository contains all the resolutions for the exercices proposed during the classes.
+
+Please note taht all the solutions are intended to be the most comprehensive possible for begginers. 
+
+To test these solutions you can create a new console project and replacing the program class code.
