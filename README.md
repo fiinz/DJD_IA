@@ -4,4 +4,5 @@ This repository contains all the resolutions for the exercices proposed during t
 
 Please note taht all the solutions are intended to be the most comprehensive possible for begginers. 
 
-To test these solutions you can create a new console project and replacing the program class code.
+To test these solutions you can create a new console project and replace the program class code by the one you're current studying. 
+
