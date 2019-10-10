@@ -13,7 +13,7 @@ namespace Noob
     {
         static void Main(string[] args)  
         {
-            String nickname="#fiinz"; // write your nickname here
+            string nickname="#fiinz"; // write your nickname here
             
             //concatenation 
             // Concatenate, concatenation, or concat is a term that describes combining a string,
