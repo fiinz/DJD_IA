@@ -6,4 +6,5 @@ Please note that all the solutions are intended to be the most comprehensive pos
 
 **To test these solutions you can create a new console project and replace the program class code by the one you're current studying. 
 
-If you have any questions, please feel free to contact me using jfins@ipmaia.pt
+If you have any 
+jfins@ipmaia.pt
