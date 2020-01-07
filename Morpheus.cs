@@ -94,7 +94,7 @@ namespace Morpheus
         {
             for (int row = 0; row < m.GetLength(0); row++)
             {
-                for (int col = 0; col < m.GetLength(0); col++)
+                for (int col = 0; col < m.GetLength(1); col++)
                 {
 
                     m[row, col] = r.Next(1, 10);
